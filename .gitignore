@@ -1,0 +1,10 @@
+# msicellaneous 
+.DS_Store
+*.pyc
+*.env
+*.log
+
+# GPT-2
+GPT-2/edu_fineweb10B/
+GPT-2/hellaswag/
+
